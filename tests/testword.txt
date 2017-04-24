@@ -1,0 +1,8 @@
+king
+queen
+man
+woman
+walked
+walking
+swam
+swimming
